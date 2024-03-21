@@ -261,7 +261,7 @@ $mail->setFrom('from@example.com', 'phpmailer');
       </h1>
     </div>
      <div class="d-flex justify-content-center mt-5">
-        <a href="calculatricemoyenne.html" class="btn btn-primary">Retour pour calculer la moyenne</a>
+        <a href="calculatricemoyenne.php" class="btn btn-primary">Retour pour calculer la moyenne</a>
     </div>
   </div>
   <br>

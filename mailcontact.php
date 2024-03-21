@@ -103,13 +103,13 @@ try {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto" style="display: flex; justify-content: center;">
           <li class="nav-item">
-            <a class="nav-link text-primary" href="acceuil.html">Accueil</a>
+            <a class="nav-link text-primary" href="index.php">Accueil</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-primary" href="fonctionnalité.html">Fonctionnalités</a>
+            <a class="nav-link text-primary" href="fonctionnalité.php">Fonctionnalités</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-primary" href="contact.html">Contacts</a>
+            <a class="nav-link text-primary" href="contact.php">Contacts</a>
           </li>
         </ul>
       </div>

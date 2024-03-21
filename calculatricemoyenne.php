@@ -172,7 +172,7 @@
                 </div>
             </div>
             <div class="text-center">
-                <a href="acceuil.html" class="btn btn-secondary">Retour à la page d'accueil</a>
+                <a href="index.php" class="btn btn-secondary">Retour à la page d'accueil</a>
             </div>
         </form>
     </div>

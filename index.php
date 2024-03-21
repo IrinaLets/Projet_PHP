@@ -43,10 +43,10 @@
                         <a class="nav-link text-primary" href="#">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-primary" href="fonctionnalité.html">Fonctionnalités</a>
+                        <a class="nav-link text-primary" href="fonctionnalité.php">Fonctionnalités</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-primary" href="contact.html">Contacts</a>
+                        <a class="nav-link text-primary" href="contact.php">Contacts</a>
                     </li>
                 </ul>
             </div>
