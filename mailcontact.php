@@ -117,7 +117,7 @@ try {
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link btn btn-primary" style="background-color: white; border: 1px solid blue; color: blue;"
-            href="calculatricemoyenne.html">Calculer la
+            href="calculatricemoyenne.php">Calculer la
             moyenne</a>
         </li>
       </ul>
@@ -133,7 +133,7 @@ try {
       </h1>
     </div>
      <div class="d-flex justify-content-center mt-5">
-        <a href="contact.html" class="btn btn-primary">Retour à la page contact</a>
+        <a href="contact.php" class="btn btn-primary">Retour à la page contact</a>
     </div>
   </div>
   <br>

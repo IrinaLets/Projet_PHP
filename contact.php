@@ -89,6 +89,7 @@
       <button type="submit" class="btn btn-primary">Envoyer</button>
     </form>    
   </div>
+  <hr>
   <footer class="footer bg-light py-4 text-center">
     <div class="container d-flex justify-content-around align-items-center">
       <span>© 2024 - Ma moyenne</span>
@@ -96,6 +97,7 @@
       <img src="img/logo twitter.png" alt="Twitter" class="img-fluid" style="max-height: 30px;">
       <img src="img/logo instagram.png" alt="Instagram" class="img-fluid" style="max-height: 30px;">
     </div>
+    
   </footer>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
   <script>// Wrap every letter in a span

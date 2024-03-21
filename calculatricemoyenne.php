@@ -28,6 +28,38 @@
 </head>
 
 <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand-logo" href="index.php"><img src="img/logo.jpg" alt="logo" style="max-height: 60px;"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto" style="display: flex; justify-content: center;">
+          <li class="nav-item">
+            <a class="nav-link text-primary" href="index.php">Accueil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-primary" href="fonctionnalité.php">Fonctionnalités</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-primary" href="contact.php">Contacts</a>
+          </li>
+        </ul>
+      </div>
+
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary" style="background-color: white; border: 1px solid blue; color: blue;"
+            href="#">Calculer la
+            moyenne</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <hr>
+  <br>
     <div class="container">
         <h1 class="ml6" style="display: flex; justify-content: center; color: rgb(0, 132, 255);">
             <span class="text-wrapper">
@@ -176,6 +208,17 @@
             </div>
         </form>
     </div>
+    <br>
+    <hr>
+    <footer class="footer bg-light py-4 text-center">
+    <div class="container d-flex justify-content-around align-items-center">
+      <span>© 2024 - Ma moyenne</span>
+      <img src="img/logo facebook.png" alt="Facebook" class="img-fluid" style="max-height: 30px;">
+      <img src="img/logo twitter.png" alt="Twitter" class="img-fluid" style="max-height: 30px;">
+      <img src="img/logo instagram.png" alt="Instagram" class="img-fluid" style="max-height: 30px;">
+    </div>
+    
+  </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
   <script>// Wrap every letter in a span
       var textWrapper = document.querySelector('.ml6 .letters');

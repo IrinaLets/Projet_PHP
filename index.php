@@ -95,6 +95,7 @@
     <br>
     <br>
     <!-- Footer -->
+    <hr>
     <footer class="footer bg-light py-4 text-center">
         <div class="container d-flex justify-content-around align-items-center">
             <span>© 2024 - Ma moyenne</span>
