@@ -32,7 +32,7 @@
     <!-- Barre de navigation -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand-logo" href=""><img src="img/logo.jpg" alt="logo" style="max-height: 60px;"></a>
+            <a class="navbar-brand-logo" href="#"><img src="img/logo.jpg" alt="logo" style="max-height: 60px;"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -55,7 +55,7 @@
                 <li class="nav-item">
                     <a class="nav-link btn btn-primary"
                         style="background-color: white; border: 1px solid blue; color: blue;"
-                        href="calculatricemoyenne.html">Calculer la
+                        href="calculatricemoyenne.php">Calculer la
                         moyenne</a>
                 </li>
             </ul>
@@ -94,9 +94,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
-    
     <!-- Footer -->
     <footer class="footer bg-light py-4 text-center">
         <div class="container d-flex justify-content-around align-items-center">

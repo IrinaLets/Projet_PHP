@@ -223,7 +223,7 @@ $mail->setFrom('from@example.com', 'phpmailer');
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
-      <a class="navbar-brand-logo" href=""><img src="img/logo.jpg" alt="logo" style="max-height: 60px;"></a>
+      <a class="navbar-brand-logo" href="index.php"><img src="img/logo.jpg" alt="logo" style="max-height: 60px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -231,13 +231,13 @@ $mail->setFrom('from@example.com', 'phpmailer');
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto" style="display: flex; justify-content: center;">
           <li class="nav-item">
-            <a class="nav-link text-primary" href="acceuil.html">Accueil</a>
+            <a class="nav-link text-primary" href="index.php">Accueil</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-primary" href="fonctionnalité.html">Fonctionnalités</a>
+            <a class="nav-link text-primary" href="fonctionnalité.php">Fonctionnalités</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-primary" href="contact.html">Contacts</a>
+            <a class="nav-link text-primary" href="contact.php">Contacts</a>
           </li>
         </ul>
       </div>
@@ -245,7 +245,7 @@ $mail->setFrom('from@example.com', 'phpmailer');
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link btn btn-primary" style="background-color: white; border: 1px solid blue; color: blue;"
-            href="calculatricemoyenne.html">Calculer la
+            href="calculatricemoyenne.php">Calculer la
             moyenne</a>
         </li>
       </ul>
