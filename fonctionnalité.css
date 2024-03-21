@@ -1,0 +1,62 @@
+.head{
+    display: flex;
+   color: rgb(0, 132, 255);
+   flex-direction: row; 
+   justify-content: space-evenly;
+   margin: 10px;
+   border-bottom: 1px solid black;
+   align-items: center;
+   width: 80%;
+   margin-left: 130px;
+
+}
+
+
+
+a{
+   list-style-type: none;
+   text-decoration: none;
+   
+}
+button:hover{
+   background:  rgb(0, 132, 255);
+}
+button a:hover{
+   color: white;
+}
+.text1{
+    color: rgb(0, 132, 255);
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin: 60px;
+}
+.block{
+    width: 450px;
+    margin-top: 50px;
+    margin: 60px;
+
+
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+.display{
+    display: flex;
+    width: 600px;
+}
+.display2{
+    display: flex;
+    width: 600px;
+
+}
+
+.block{
+    width: 450px;
+    margin-top: 50px;
+    margin: 60px;
+
+
+}
+
+
